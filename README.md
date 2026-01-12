@@ -44,3 +44,7 @@ Total Profit = SUM(Sales[Profit])
 Total Orders = DISTINCTCOUNT(Sales[Order ID])
 Average Order Value = DIVIDE([Total Sales], [Total Orders])
 Profit Margin % = DIVIDE([Total Profit], [Total Sales])
+
+---
+## Dashboard Preview
+[Dashboard screenshot](dashboard.png)
